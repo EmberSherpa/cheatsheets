@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="801px" height="265px" viewBox="0 0 801 265" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Copying Incoming Values</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="16" y="140" width="300" height="111.741608"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="300" height="111.741608" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="195" y="151" width="109" height="56"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="109" height="56" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <pattern id="pattern-5" width="7.2" height="7.2" x="254.8" y="159.8" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-6" transform="scale(0.15,0.15)"></use>
+        </pattern>
+        <image id="image-6" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAV9JREFUaAXt2O0NgjAQBmBrt4DoDiawEHEQB1F3MK7BHKxR+2oKQfnseXCX0B/SEr3zucZIz+R57nZ+OOfuZVmeMcWaOEyWZVdjTBHicMW3aZpekMQnOyVJcqiq6hmSUq6Ig3iIyxnf+iRH7iSc8e1SleJCWGyvZsQboBlRA7QiWgCNiB+ANkQnQBOiF6AFMQjQgBgFSEdMAkhGTAZIRcwCSETMBkhDRAEkIaIBUhAkgAQEGbA2AgCDL0Edax2KrO8e3JCcCsDn10CgK/HQ2I0IZ+w9KucXBfo4mGJNHA79JfSBQhzO+FtfKFS567rEb2LrC3VV/vse507Uf2ScSQDiil8DOJOEHeFAtAAaET8AbYhOgCZEL0ALYhCgATEKkI6YBJCMmAyQipgFkIiYDZCGiAJIQkQDpCBIAAkIMmBtBAD/OMizPe+jQBh9j+JbX+hTn+a1r1K437wrfvYd/wV+UgblD/bGFgAAAABJRU5ErkJggg=="></image>
+        <rect id="path-7" x="0" y="0" width="329" height="264.597615"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="329" height="264.597615" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0" y="0" width="115" height="70"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="115" height="70" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <pattern id="pattern-11" width="7.2" height="7.2" x="73.8" y="33.8" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-12" transform="scale(0.15,0.15)"></use>
+        </pattern>
+        <image id="image-12" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAV9JREFUaAXt2O0NgjAQBmBrt4DoDiawEHEQB1F3MK7BHKxR+2oKQfnseXCX0B/SEr3zucZIz+R57nZ+OOfuZVmeMcWaOEyWZVdjTBHicMW3aZpekMQnOyVJcqiq6hmSUq6Ig3iIyxnf+iRH7iSc8e1SleJCWGyvZsQboBlRA7QiWgCNiB+ANkQnQBOiF6AFMQjQgBgFSEdMAkhGTAZIRcwCSETMBkhDRAEkIaIBUhAkgAQEGbA2AgCDL0Edax2KrO8e3JCcCsDn10CgK/HQ2I0IZ+w9KucXBfo4mGJNHA79JfSBQhzO+FtfKFS567rEb2LrC3VV/vse507Uf2ScSQDiil8DOJOEHeFAtAAaET8AbYhOgCZEL0ALYhCgATEKkI6YBJCMmAyQipgFkIiYDZCGiAJIQkQDpCBIAAkIMmBtBAD/OMizPe+jQBh9j+JbX+hTn+a1r1K437wrfvYd/wV+UgblD/bGFgAAAABJRU5ErkJggg=="></image>
+        <rect id="path-13" x="0" y="0" width="95" height="48"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="95" height="48" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <pattern id="pattern-15" width="7.2" height="7.2" x="36.8" y="14.8" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-16" transform="scale(0.15,0.15)"></use>
+        </pattern>
+        <image id="image-16" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAV9JREFUaAXt2O0NgjAQBmBrt4DoDiawEHEQB1F3MK7BHKxR+2oKQfnseXCX0B/SEr3zucZIz+R57nZ+OOfuZVmeMcWaOEyWZVdjTBHicMW3aZpekMQnOyVJcqiq6hmSUq6Ig3iIyxnf+iRH7iSc8e1SleJCWGyvZsQboBlRA7QiWgCNiB+ANkQnQBOiF6AFMQjQgBgFSEdMAkhGTAZIRcwCSETMBkhDRAEkIaIBUhAkgAQEGbA2AgCDL0Edax2KrO8e3JCcCsDn10CgK/HQ2I0IZ+w9KucXBfo4mGJNHA79JfSBQhzO+FtfKFS567rEb2LrC3VV/vse507Uf2ScSQDiil8DOJOEHeFAtAAaET8AbYhOgCZEL0ALYhCgATEKkI6YBJCMmAyQipgFkIiYDZCGiAJIQkQDpCBIAAkIMmBtBAD/OMizPe+jQBh9j+JbX+hTn+a1r1K437wrfvYd/wV+UgblD/bGFgAAAABJRU5ErkJggg=="></image>
+        <polygon id="path-17" points="0 0 450 0 450 265 232.005941 265 0 265"></polygon>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="450" height="265" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <pattern id="pattern-19" width="7.2" height="7.2" x="-7.2" y="-2.2" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-20" transform="scale(0.15,0.15)"></use>
+        </pattern>
+        <image id="image-20" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAV9JREFUaAXt2O0NgjAQBmBrt4DoDiawEHEQB1F3MK7BHKxR+2oKQfnseXCX0B/SEr3zucZIz+R57nZ+OOfuZVmeMcWaOEyWZVdjTBHicMW3aZpekMQnOyVJcqiq6hmSUq6Ig3iIyxnf+iRH7iSc8e1SleJCWGyvZsQboBlRA7QiWgCNiB+ANkQnQBOiF6AFMQjQgBgFSEdMAkhGTAZIRcwCSETMBkhDRAEkIaIBUhAkgAQEGbA2AgCDL0Edax2KrO8e3JCcCsDn10CgK/HQ2I0IZ+w9KucXBfo4mGJNHA79JfSBQhzO+FtfKFS567rEb2LrC3VV/vse507Uf2ScSQDiil8DOJOEHeFAtAAaET8AbYhOgCZEL0ALYhCgATEKkI6YBJCMmAyQipgFkIiYDZCGiAJIQkQDpCBIAAkIMmBtBAD/OMizPe+jQBh9j+JbX+hTn+a1r1K437wrfvYd/wV+UgblD/bGFgAAAABJRU5ErkJggg=="></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-Down-Actions-Up" transform="translate(-50.000000, -629.000000)">
+            <g id="Copying-Incoming-Values" transform="translate(50.000000, 629.000000)">
+                <g id="Diagram">
+                    <text id="context-(controller" font-family="ClassicGrotesquePro-Medium, Classic Grotesque Pro" font-size="24" font-weight="400" fill="#227984">
+                        <tspan x="27" y="37">context </tspan>
+                        <tspan x="114.72" y="37" font-size="12">(controller or component)</tspan>
+                    </text>
+                    <g id="component">
+                        <use id="Rectangle-2" stroke="#227984" mask="url(#mask-2)" stroke-width="2" fill="#008297" xlink:href="#path-1"></use>
+                        <text font-family="ClassicGrotesquePro-Medium, Classic Grotesque Pro" font-size="24" font-weight="400" fill="#FFFFFF">
+                            <tspan x="24" y="241.741608">component</tspan>
+                        </text>
+                        <g id="action-handler">
+                            <use id="Rectangle-3" stroke="#008297" mask="url(#mask-4)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-3"></use>
+                            <text font-family="ClassicGrotesquePro-Medium, Classic Grotesque Pro" font-size="8" font-weight="400" line-spacing="12" fill="#008297">
+                                <tspan x="202" y="161">action handler </tspan>
+                            </text>
+                            <path d="M272.5,188 C278.29899,188 283,183.29899 283,177.5 C283,171.70101 278.29899,167 272.5,167 C266.70101,167 262,171.70101 262,177.5 C262,183.29899 266.70101,188 272.5,188 Z" id="Oval" stroke="#E0562A" fill="url(#pattern-5)"></path>
+                            <use id="Rectangle" stroke-opacity="0.718891531" stroke="#008297" mask="url(#mask-8)" stroke-width="6" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-7"></use>
+                        </g>
+                        <g id="didRecieveAttrs" transform="translate(20.000000, 150.000000)">
+                            <use id="Rectangle-3" stroke="#008297" mask="url(#mask-10)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-9"></use>
+                            <text id="didReceiveAttrs" font-family="ClassicGrotesquePro-Medium, Classic Grotesque Pro" font-size="8" font-weight="400" line-spacing="12" fill="#008297">
+                                <tspan x="49.064" y="13">didReceiveAttrs</tspan>
+                            </text>
+                            <circle id="Oval" stroke="#E0562A" fill="#DF542F" cx="20.5" cy="51.5" r="10.5"></circle>
+                            <circle id="Oval" stroke="#E0562A" fill="url(#pattern-11)" cx="91.5" cy="51.5" r="10.5"></circle>
+                            <g id="Copy-Arrow" transform="translate(32.000000, 31.000000)" stroke="#6CB964" stroke-width="3">
+                                <path d="M0,13 C0,13 14.6709833,0.392199263 21.8272727,0.392199263 C29.2224985,0.392199263 43.6545455,13 43.6545455,13" id="Line" stroke-linecap="square"></path>
+                                <polygon id="Triangle" fill="#6CB964" transform="translate(43.219666, 12.511869) rotate(-238.000000) translate(-43.219666, -12.511869) " points="43.2196655 8.51186944 46.7833019 16.5118694 39.6560291 16.5118694"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="action-handler" transform="translate(218.000000, 52.000000)">
+                        <use id="Rectangle-3" stroke="#008297" mask="url(#mask-14)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-13"></use>
+                        <text font-family="ClassicGrotesquePro-Medium, Classic Grotesque Pro" font-size="12" font-weight="400" line-spacing="12" fill="#008297">
+                            <tspan x="6.37" y="13.5603019">action handler </tspan>
+                        </text>
+                        <circle id="Oval" stroke="#E0562A" fill="url(#pattern-15)" cx="54.5" cy="32.5" r="10.5"></circle>
+                    </g>
+                    <g id="Original-Value" transform="translate(21.000000, 64.000000)" stroke-width="4">
+                        <path d="M19,29 L19,117" id="Line" stroke="#6CB964" stroke-linecap="square"></path>
+                        <path id="Line-decoration-1" d="M19,117 L22,106.2 L16,106.2 L19,117 Z" stroke="#6CB964" stroke-linecap="square"></path>
+                        <path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" id="Oval" stroke="#E0562A" fill="#DF542F"></path>
+                    </g>
+                    <path d="M255.321553,82.5 L68.8445674,82.5" id="Line" stroke="#6CB964" stroke-width="3" stroke-linecap="square"></path>
+                    <path id="Line-decoration-1" d="M68.8445674,82.5 L79.6445674,85.5 L79.6445674,79.5 L68.8445674,82.5 Z" stroke="#6CB964" stroke-width="3" stroke-linecap="square"></path>
+                    <path d="M273,164.5 L273,105.006097" id="Line" stroke="#6CB964" stroke-width="3" stroke-linecap="square" fill="#D8D8D8"></path>
+                    <path id="Line-decoration-1" d="M273,105.006097 L270,115.806097 L276,115.806097 L273,105.006097 Z" stroke="#6CB964" stroke-width="3" stroke-linecap="square" fill="#D8D8D8"></path>
+                </g>
+                <g id="Description" transform="translate(351.000000, 0.000000)">
+                    <use id="Rectangle-4" stroke-opacity="0.72" stroke="#008297" mask="url(#mask-18)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-17"></use>
+                    <g id="Legend" transform="translate(18.000000, 13.000000)">
+                        <g id="Value">
+                            <text id="value" font-family="ClassicGrotesquePro-SemiBold, Classic Grotesque Pro" font-size="24" font-weight="500" fill="#949CA1">
+                                <tspan x="28" y="22">value</tspan>
+                            </text>
+                            <path d="M9,25 C13.9705627,25 18,20.9705627 18,16 C18,11.0294373 13.9705627,7 9,7 C4.02943725,7 0,11.0294373 0,16 C0,20.9705627 4.02943725,25 9,25 Z" id="Oval" stroke="#E0562A" stroke-width="4" fill="#DF542F"></path>
+                        </g>
+                        <g id="Good" transform="translate(111.000000, 0.000000)">
+                            <text id="good" font-family="ClassicGrotesquePro-SemiBold, Classic Grotesque Pro" font-size="24" font-weight="500" fill="#6CB964">
+                                <tspan x="35" y="22">good</tspan>
+                            </text>
+                            <path d="M0.5,17.5 L22.5665932,17.5" id="Line" stroke="#70B958" stroke-width="3" stroke-linecap="square"></path>
+                            <path id="Line-decoration-1" d="M22.5665932,17.5 L11.7665932,14.5 L11.7665932,20.5 L22.5665932,17.5 Z" stroke="#70B958" stroke-width="3" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Copy" transform="translate(226.000000, 0.000000)">
+                            <text id="copied-value" font-family="ClassicGrotesquePro-SemiBold, Classic Grotesque Pro" font-size="24" font-weight="500" fill="#949CA1">
+                                <tspan x="31" y="22">copied value</tspan>
+                            </text>
+                            <path d="M10.5,26 C16.2989899,26 21,21.2989899 21,15.5 C21,9.70101013 16.2989899,5 10.5,5 C4.70101013,5 0,9.70101013 0,15.5 C0,21.2989899 4.70101013,26 10.5,26 Z" id="Oval" stroke="#E0562A" fill="url(#pattern-19)"></path>
+                        </g>
+                    </g>
+                    <text id="When-you-need-the-co" font-family="ClassicGrotesquePro-Medium, Classic Grotesque Pro" font-size="12" font-weight="400" fill="#777776">
+                        <tspan x="13" y="64">When you need the component to be able to modify the passed in value </tspan>
+                        <tspan x="13" y="80">without effecting the value on the context, you can can copy a value inside of </tspan>
+                        <tspan x="13" y="96">a component.</tspan>
+                        <tspan x="13" y="112"></tspan>
+                        <tspan x="13" y="128">Use didReceiveAttrs hook to copy the value that’s passed in to another </tspan>
+                        <tspan x="13" y="144">property on the component. </tspan>
+                        <tspan x="13" y="160"></tspan>
+                        <tspan x="13" y="176">WARNING: Beware of compex objects in arrays or assigned to objects. Copying </tspan>
+                        <tspan x="13" y="192">an array will maintain references to objects in original value. If you mutate one </tspan>
+                        <tspan x="13" y="208">of these objects, you will be mutating the same object that  is references in </tspan>
+                        <tspan x="13" y="224">the context. </tspan>
+                    </text>
+                    <text id="http://wrk.tg/copyin" font-family="ClassicGrotesquePro-Medium, Classic Grotesque Pro" font-size="12" font-weight="400" fill="#E0562A">
+                        <tspan x="14" y="247">http://wrk.tg/copying-incoming-value</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

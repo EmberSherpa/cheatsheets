@@ -1,0 +1,65 @@
+<h1>Copying Incoming Value</h1>
+
+<img src="images/copying-incoming-value.svg">
+
+<div class="layout-row flex layout-padding">
+  <div class="flex">
+    <p>
+      When working with forms, you'll often need to allow the user to make an input without modifying the original value.
+      The original value is changed only after an explicit action, like user clicking on Save button.
+    </p>
+    <p>
+      To do this, you can copy the value that's being passed into the component in <i>didReceiveAttrs</i> component hook.
+      This hook is fired whenever an argument that's bound to a component changes.
+    </p>
+  </div>
+</div>
+
+<h2>Demo</h2>
+
+<div class="layout-column flex layout-padding">
+  <div class="flex">
+    <p>
+      In this example, we'll create a component that has a value on it. This value will be passed into a component that'll allow to edit this value.
+      The value will not update the context until Save button is pressed.
+    </p>
+  </div>
+  <div class="flex">
+    {{copying-incoming-value}}    
+  </div>
+</div>
+
+<h2>Code</h2>
+
+<div class="layout-column flex layout-padding">
+  <div class="flex">
+    <h3>Context</h3>
+    {{code-snippet name="copying-incoming-value_context.js"}}
+    {{code-snippet name="copying-incoming-value_context.hbs"}}
+  </div>
+  <div class="flex">
+    <h3>Editor</h3>
+    {{code-snippet name="copying-incoming-value_editor.js"}}
+    {{code-snippet name="copying-incoming-value_editor.hbs"}}
+  </div>
+</div>
+
+<h2>Links</h2>
+
+{{#paper-content class="md-whiteframe-z1 list-demo"}}
+  {{#paper-list}}
+    {{#let (array 
+        (hash title="DDAU with ember-simple-form & ember-with-service" author="Ryan Tablada" link="https://vimeo.com/162631962")
+      ) as |items|
+    }}
+      {{#each items as |item|}}
+        {{#paper-item class="md-3-line"}}
+          <div class="md-list-item-text">
+              <h3><a href={{item.link}}>{{item.title}}</a></h3>
+              <h4>{{item.author}}</h4>
+          </div>
+        {{/paper-item}}
+      {{/each}}
+    {{/let}}
+  {{/paper-list}}
+{{/paper-content}}

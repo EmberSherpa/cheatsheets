@@ -1,0 +1,10 @@
+{{!BEGIN-SNIPPET copying-incoming-value_context}}
+<h3>Context</h3>
+{{paper-input
+  label="Context Value"
+  value=value
+  onChange=(action (mut value))
+}}
+
+{{copying-incoming-value/editor value=value onSave=(action (mut value))}}
+{{!END-SNIPPET}}

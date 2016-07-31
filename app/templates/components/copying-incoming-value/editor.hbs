@@ -1,0 +1,5 @@
+{{!BEGIN-SNIPPET copying-incoming-value_editor}}
+<h3>Editor</h3>
+{{paper-input value=_value onChange=(action (mut _value))}}
+<button {{action "save"}}>Save</button>
+{{!END-SNIPPET}}
