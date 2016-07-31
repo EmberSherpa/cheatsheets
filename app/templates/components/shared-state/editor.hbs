@@ -1,6 +1,7 @@
 {{!BEGIN-SNIPPET shared-state_nested-editor}}
+<h3>Editor</h3>
 {{paper-input value=text onChange=(action "changeText") 
-              textarea=true block=true label="Editor" 
-              maxlength=500 passThru=(hash rows=5
-)}}
+              textarea=true block=true 
+              maxlength=500 passThru=(hash rows=5)
+}}
 {{!END-SNIPPET}}

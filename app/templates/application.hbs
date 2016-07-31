@@ -1,7 +1,7 @@
 {{#paper-toolbar as |toolbar|}}
   {{#toolbar.tools}}
     {{#paper-button tagName="h1" onClick=(action (transition-to "index"))}}
-      EmberSherpa
+      Cheatsheets
     {{/paper-button}}
     <span class="flex"></span>
   {{/toolbar.tools}}
@@ -14,9 +14,6 @@
       open=leftSideBarOpen
       onToggle=(action (mut leftSideBarOpen))
     }}
-      {{#paper-toolbar as |toolbar|}}
-        {{#paper-toolbar-tools}}Cheatsheets{{/paper-toolbar-tools}}
-      {{/paper-toolbar}}
       {{#paper-content padding=true}}
         {{#let (array 
           (hash name="shared-state" title="Shared State")

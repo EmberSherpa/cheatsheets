@@ -1,6 +1,29 @@
-<h2>Shared State</h2>
+<h1>Managing Shared State</h1>
+
+<div class="layout-row flex layout-padding">
+  <div class="flex">
+    <p>
+      Shared state refers to a scenario where you have several components that consume the same value.
+      A natural question is where should this shared state should reside? The answer is on the context that's common to
+      all components that need this state.
+    </p>
+  </div>
+</div>
+
+<h2>Demo</h2>
+
+<div class="layout-row flex layout-padding">
+  <div class="flex">
+    <p>
+      In this demo, we have an <i>editor with preview</i> component. The editor and preview are separate components.
+      They consume they use the text value that's defined on the parent component.
+    </p>
+  </div>
+</div>
 
 {{shared-state/editor-with-preview}}
+
+<h2>Code</h2>
 
 <div class="layout-column flex layout-padding">
   <div class="flex">
@@ -23,3 +46,23 @@
     </div>
   </div>
 </div>
+
+<h2>Links</h2>
+
+{{#paper-content class="md-whiteframe-z1 list-demo"}}
+  {{#paper-list}}
+    {{#let (array 
+        (hash title="Lowest Common Ancestor" author="Sam Selikoff" link="http://www.samselikoff.com/blog/lowest-common-ancestor/")
+      ) as |items|
+    }}
+      {{#each items as |item|}}
+        {{#paper-item class="md-3-line"}}
+          <div class="md-list-item-text">
+              <h3><a href={{item.link}}>{{item.title}}</a></h3>
+              <h4>{{item.author}}</h4>
+          </div>
+        {{/paper-item}}
+      {{/each}}
+    {{/let}}
+  {{/paper-list}}
+{{/paper-content}}

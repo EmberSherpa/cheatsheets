@@ -1,8 +1,11 @@
-// BEGIN-SNIPPET shared-state_nested-editor
 import Ember from 'ember';
 
-export default Ember.Component.extend({
-  classNames: 'flex',
+const Component = Ember.Component.extend({
+  classNames: 'flex'  
+});
+
+// BEGIN-SNIPPET shared-state_nested-editor
+export default Component.extend({
   actions: {
     changeText(text) {
       this.sendAction('changeText', text);
