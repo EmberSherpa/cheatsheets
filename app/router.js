@@ -6,6 +6,8 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('shared-state');
+  this.route('copying-incoming-value');
 });
 
 export default Router;

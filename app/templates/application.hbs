@@ -1,0 +1,39 @@
+{{#paper-toolbar as |toolbar|}}
+  {{#toolbar.tools}}
+    {{#paper-button tagName="h1" onClick=(action (transition-to "index"))}}
+      EmberSherpa
+    {{/paper-button}}
+    <span class="flex"></span>
+  {{/toolbar.tools}}
+{{/paper-toolbar}}
+
+{{#paper-sidenav-container class="inner-sidenav"}}
+    {{#paper-sidenav 
+      class="md-whiteframe-z2"
+      name="left" 
+      open=leftSideBarOpen
+      onToggle=(action (mut leftSideBarOpen))
+    }}
+      {{#paper-toolbar as |toolbar|}}
+        {{#paper-toolbar-tools}}Cheatsheets{{/paper-toolbar-tools}}
+      {{/paper-toolbar}}
+      {{#paper-content padding=true}}
+        {{#let (array 
+          (hash name="shared-state" title="Shared State")
+          (hash name="copying-incoming-value" title="Copying Incoming Value")
+          ) as |routes|}}
+          {{#each routes as |route|}}
+            {{#paper-button onClick=(action (transition-to route.name))}}
+              {{route.title}}
+            {{/paper-button}}
+          {{/each}}
+        {{/let}}
+      {{/paper-content}}
+    {{/paper-sidenav}}
+
+    {{#paper-card-content class="flex"}}
+      <div class="layout-align-start-center layout-column">
+        {{outlet}}
+      </div>  
+    {{/paper-card-content}}
+  {{/paper-sidenav-container}}
